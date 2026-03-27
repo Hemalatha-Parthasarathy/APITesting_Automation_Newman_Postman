@@ -1,0 +1,40 @@
+{
+	"id": "62c5d065-3e3a-474a-b4f1-2af19277ee3e",
+	"name": "QA Environment",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "productName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "productPrice",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "product",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "resProductId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-03-27T03:37:19.290Z",
+	"_postman_exported_using": "Postman/12.3.5"
+}
