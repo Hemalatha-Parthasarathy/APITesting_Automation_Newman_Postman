@@ -4,31 +4,31 @@
 	"values": [
 		{
 			"key": "base_url",
-			"value": "",
+			"value": "https://fakestoreapi.com",
 			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "productName",
-			"value": "",
+			"value": "Test Product 258",
 			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "productPrice",
-			"value": "",
+			"value": "733",
 			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "product",
-			"value": "",
+			"value": "Test Product 77308",
 			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "resProductId",
-			"value": "",
+			"value": "21",
 			"type": "default",
 			"enabled": true
 		}
