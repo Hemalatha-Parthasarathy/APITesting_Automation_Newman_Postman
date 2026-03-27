@@ -16,4 +16,4 @@ jobs:
     - name: install Newman
       run: npm install -g newman    
     - name: Run Collection
-      run: newman run collection1.json -e QAEnv.json
+      run: newman run dataDrivenCollection.json -d UserData.json

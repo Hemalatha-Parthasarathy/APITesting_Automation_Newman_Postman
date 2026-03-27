@@ -1,0 +1,26 @@
+[
+ {
+   "title": "Test Product 100",
+   "price": "1000",
+   "description": "You look more stylish",
+   "category": "shoe"
+ },
+ {
+   "title": "Test Product 101",
+   "price": "1001",
+   "description": "You look more semi modern",
+   "category": "bags"
+ },
+ {
+   "title": "Test Product 102",
+   "price": "1002",
+   "description": "You look more tall",
+   "category": "pants"
+ },
+ {
+   "title": "Test Product 103",
+   "price": "1003",
+   "description": "You look more short",
+   "category": "tops"
+ }
+]
